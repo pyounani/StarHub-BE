@@ -10,6 +10,12 @@ _written by pyounani_
 기존 모임 서비스들은 장소, 기간, 시간 등의 필수 정보가 충분하지 않아 사용자에게 불편을 주고 개인정보가 노출될 우려가 있었습니다. 
 STARHUB는 모임의 정확한 위치를 지도에 표시하고, 개인정보를 보호하면서 편리하게 모임에 참여할 수 있도록 돕습니다.
 
+### Link
+> 화면 설계서: [Go to 화면 설계서](https://www.figma.com/design/dvwu1OSIkATkJNB8s27qOK/%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84%EC%84%9C-%EB%B0%8F-%EA%B8%B0%EB%8A%A5%EC%A0%95%EC%9D%98%EC%84%9C?node-id=0-1&t=AXdk08bFO05mpgWq-1) <br />
+> 요구사항 정의서: [Go to 요구사항 정의서](https://docs.google.com/spreadsheets/d/1Gq_4DYZsYgCMsyfzU5T62dg62EIbpvb1jiMB9NwdSSQ/edit?usp=sharing) <br />
+> API Docs: [Go to API Docs](https://docs.google.com/spreadsheets/d/1cqt3lllvTCdIIO9MfrkECw0t_co8S5RvgBsgmqtVuL0/edit?usp=drive_link) <br />
+
+
 ### 기술 스택 및 아키텍처 설계도
 
 

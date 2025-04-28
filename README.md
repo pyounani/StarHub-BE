@@ -14,6 +14,7 @@ STARHUB는 모임의 정확한 위치를 지도에 표시하고, 개인정보를
 > 화면 설계서: [Go to 화면 설계서](https://www.figma.com/design/dvwu1OSIkATkJNB8s27qOK/%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84%EC%84%9C-%EB%B0%8F-%EA%B8%B0%EB%8A%A5%EC%A0%95%EC%9D%98%EC%84%9C?node-id=0-1&t=AXdk08bFO05mpgWq-1) <br />
 > 요구사항 정의서: [Go to 요구사항 정의서](https://docs.google.com/spreadsheets/d/1Gq_4DYZsYgCMsyfzU5T62dg62EIbpvb1jiMB9NwdSSQ/edit?usp=sharing) <br />
 > API Docs: [Go to API Docs](https://docs.google.com/spreadsheets/d/1cqt3lllvTCdIIO9MfrkECw0t_co8S5RvgBsgmqtVuL0/edit?usp=drive_link) <br />
+> 관련 자료 모음: [Go To 구글 드라이브](https://drive.google.com/drive/folders/1CwKTf_e0-HN7yowYiJWehIq2V45AKP4h?usp=drive_link) <br />
 
 
 ### 기술 스택 및 아키텍처 설계도
